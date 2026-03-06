@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173.07 31.68">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 .97 .97;
+      }
+    </style>
+  </defs>
+  <g id="Transparent">
+    <path class="cls-1" d="M168.57,.25H4.5C2.15,.25,.25,2.16,.25,4.5V27.18c0,2.35,1.9,4.25,4.25,4.25H168.57c2.34,0,4.25-1.9,4.25-4.25V4.5c0-2.34-1.91-4.25-4.25-4.25Z"/>
+    <g>
+      <line class="cls-1" x1="22.76" y1=".25" x2="22.76" y2=".75"/>
+      <line class="cls-2" x1="22.76" y1="1.72" x2="22.76" y2="30.44"/>
+      <line class="cls-1" x1="22.76" y1="30.93" x2="22.76" y2="31.43"/>
+    </g>
+    <g>
+      <line class="cls-1" x1="150.31" y1=".25" x2="150.31" y2=".75"/>
+      <line class="cls-2" x1="150.31" y1="1.72" x2="150.31" y2="30.44"/>
+      <line class="cls-1" x1="150.31" y1="30.93" x2="150.31" y2="31.43"/>
+    </g>
+  </g>
+</svg>

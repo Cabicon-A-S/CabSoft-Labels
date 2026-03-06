@@ -1,0 +1,15 @@
+{
+  "itemno": "0",
+  "description": "CabMark CMP 60x10",
+  "label-width": 60,
+  "label-height": 10,
+  "liner-width": 76,
+  "margin-left": 10,
+  "margin-right": 6,
+  "rowspacing": 8.5,
+  "colspacing": 0,
+  "columns": 1,
+  "print-speed": 50,
+  "backfeed-enabled": true,
+  "sensor-type": "gap"
+}
