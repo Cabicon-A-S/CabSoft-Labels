@@ -1,0 +1,32 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark CMP 90x11",
+    "status": "wip"
+  },
+  "geometry": {
+    "label-width": 90,
+    "label-height": 10,
+    "liner-width": 100,
+    "margin-left": 6,
+    "margin-right": 4,
+    "rowspacing": 7,
+    "colspacing": 0,
+    "columns": 1
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 30,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": true,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

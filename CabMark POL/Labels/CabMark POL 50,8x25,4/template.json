@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark POL 50,8x25,4",
+    "status": "done",
+    "calibrated-against": {
+      "printer": "eos5-300",
+      "print-offset-x": 0.0,
+      "print-offset-y": -0.70,
+      "panel-heat": 17,
+      "panel-backfeed": "optimised",
+      "date": "2026-09-27",
+      "evidence": "99 Archive/hardware-tests/2026-09-27_flat-stock.md",
+      "verified-by": "x ladder rung E -> margin-left 1.35 to 1.60 (margin-right 1.10, carrier exact); full-bleed confirmation strip read good on both axes; DONE target, 8 rows, read correct on 2026-09-27. Vertical was already correct as shipped, so no y ladder was needed - print-offset-y -0.70 was already established on four other stocks."
+    }
+  },
+  "geometry": {
+    "label-width": 50.8,
+    "label-height": 25.4,
+    "liner-width": 53.5,
+    "margin-left": 1.6,
+    "margin-right": 1.1,
+    "rowspacing": 0,
+    "colspacing": 0,
+    "columns": 1
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 50,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": true,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

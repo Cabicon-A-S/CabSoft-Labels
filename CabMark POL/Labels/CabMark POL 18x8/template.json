@@ -1,0 +1,32 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark POL 18x8",
+    "status": "wip"
+  },
+  "geometry": {
+    "label-width": 18,
+    "label-height": 8,
+    "liner-width": 93,
+    "margin-left": 2.3,
+    "margin-right": 1.7,
+    "rowspacing": 1.5,
+    "colspacing": 4,
+    "columns": 4
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 30,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": false,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

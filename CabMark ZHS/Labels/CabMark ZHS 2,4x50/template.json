@@ -1,0 +1,33 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark ZHS Ø2,4x50",
+    "status": "wip"
+  },
+  "geometry": {
+    "label-width": 50,
+    "label-height": 5,
+    "diameter": 2.4,
+    "liner-width": 89,
+    "margin-left": 17,
+    "margin-right": 22,
+    "rowspacing": 7,
+    "colspacing": 0,
+    "columns": 1
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 30,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": false,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.68 34.58">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Label">
+    <path class="cls-1" d="M72.85,34.58L2.83,34.58C1.27,34.58 0.00,33.31 0.00,31.75L0.00,2.84C0.00,1.27 1.27,0.00 2.83,0.00L72.85,0.00C74.42,0.00 75.68,1.27 75.68,2.84L75.68,31.75C75.68,33.31 74.42,34.58 72.85,34.58Z"/>
+  </g>
+</svg>

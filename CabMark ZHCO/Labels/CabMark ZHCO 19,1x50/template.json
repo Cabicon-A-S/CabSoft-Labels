@@ -1,0 +1,34 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark ZHCO Ø19,1x50",
+    "status": "wip"
+  },
+  "geometry": {
+    "label-width": 30.0,
+    "label-height": 50.0,
+    "diameter": 19.1,
+    "liner-width": 30.0,
+    "margin-left": 0,
+    "margin-right": 0,
+    "rowspacing": 0,
+    "colspacing": 0,
+    "columns": 1
+  },
+  "print": {
+    "sensor-type": "continuous",
+    "print-speed": 50,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": true,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true,
+    "rotate-90": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

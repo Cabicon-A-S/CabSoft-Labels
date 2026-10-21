@@ -1,0 +1,32 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark CPL 27x18",
+    "status": "wip"
+  },
+  "geometry": {
+    "label-width": 27,
+    "label-height": 18,
+    "liner-width": 31,
+    "margin-left": 2,
+    "margin-right": 2,
+    "rowspacing": 0,
+    "colspacing": 0,
+    "columns": 1
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 50,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": true,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

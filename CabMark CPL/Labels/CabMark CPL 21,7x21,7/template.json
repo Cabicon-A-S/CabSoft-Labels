@@ -1,0 +1,32 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark CPL 21,7x21,7",
+    "status": "wip"
+  },
+  "geometry": {
+    "label-width": 21.7,
+    "label-height": 21.7,
+    "liner-width": 28,
+    "margin-left": 3.15,
+    "margin-right": 3.15,
+    "rowspacing": 0,
+    "colspacing": 0,
+    "columns": 1
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 50,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": true,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark CMW 25,4x19x57,2",
+    "status": "wip"
+  },
+  "geometry": {
+    "label-width": 25.4,
+    "label-height": 57.2,
+    "liner-width": 93,
+    "margin-left": 2.8,
+    "margin-right": 2.8,
+    "rowspacing": 8.205,
+    "colspacing": 5.6,
+    "columns": 3
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 50,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": true,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

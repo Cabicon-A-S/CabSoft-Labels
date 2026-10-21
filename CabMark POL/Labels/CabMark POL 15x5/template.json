@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark POL 15x5",
+    "status": "done",
+    "calibrated-against": {
+      "printer": "eos5-300",
+      "print-offset-x": 0.0,
+      "print-offset-y": -0.70,
+      "panel-heat": 17,
+      "panel-backfeed": "optimised",
+      "date": "2026-09-27",
+      "evidence": "99 Archive/hardware-tests/2026-09-27_flat-stock.md",
+      "verified-by": "x ladder rung B -> margin-left 3.00 to 1.98 (margin-right 2.02, carrier exact; that ladder had no zero rung, and B sits two dots off its baked 2.153); y ladder rung C -> no change, print-offset-y -0.70 confirmed on a 4th stock. First FLAT multi-column stock verified, so the strip path is exercised on non-sleeve material. DONE target, 8 rows, read correct on 2026-09-27."
+    }
+  },
+  "geometry": {
+    "label-width": 15,
+    "label-height": 5,
+    "liner-width": 76,
+    "margin-left": 1.98,
+    "margin-right": 2.02,
+    "rowspacing": 0,
+    "colspacing": 4,
+    "columns": 4
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 30,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": false,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

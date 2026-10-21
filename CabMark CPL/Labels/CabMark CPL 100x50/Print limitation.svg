@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283.96 142.23">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 0 1 1;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0 0 1.01 1.01;
+      }
+    </style>
+  </defs>
+  <g id="Print_limination" data-name="Print limination">
+    <rect class="cls-2" x=".25" y=".25" width="283.46" height="141.73" rx="2.83" ry="2.83"/>
+    <g>
+      <polyline class="cls-2" points="282.3 140.06 282.3 140.56 281.8 140.56"/>
+      <line class="cls-1" x1="280.79" y1="140.56" x2="2.67" y2="140.56"/>
+      <polyline class="cls-2" points="2.17 140.56 1.67 140.56 1.67 140.06"/>
+      <line class="cls-3" x1="1.67" y1="139.06" x2="1.67" y2="2.67"/>
+      <polyline class="cls-2" points="1.67 2.17 1.67 1.67 2.17 1.67"/>
+      <line class="cls-1" x1="3.17" y1="1.67" x2="281.3" y2="1.67"/>
+      <polyline class="cls-2" points="281.8 1.67 282.3 1.67 282.3 2.17"/>
+      <line class="cls-3" x1="282.3" y1="3.17" x2="282.3" y2="139.56"/>
+    </g>
+  </g>
+</svg>

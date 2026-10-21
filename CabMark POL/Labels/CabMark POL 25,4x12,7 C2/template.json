@@ -1,0 +1,32 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark POL 25,4x12,7 C2",
+    "status": "wip"
+  },
+  "geometry": {
+    "label-width": 25.4,
+    "label-height": 12.7,
+    "liner-width": 56,
+    "margin-left": 0.7,
+    "margin-right": 0.7,
+    "rowspacing": 0.3,
+    "colspacing": 1.6,
+    "columns": 2
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 50,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": true,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

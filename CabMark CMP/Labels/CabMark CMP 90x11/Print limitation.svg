@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 255.62 31.68">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 .97 .97;
+      }
+    </style>
+  </defs>
+  <g id="Print_limination" data-name="Print limination">
+    <path class="cls-1" d="M252.54,.25H3.09C1.52,.25,.25,1.52,.25,3.08V28.59c0,1.57,1.27,2.84,2.84,2.84H252.54c1.56,0,2.83-1.27,2.83-2.84V3.08c0-1.56-1.27-2.83-2.83-2.83Z"/>
+    <g>
+      <line class="cls-1" x1="22.93" y1=".25" x2="22.93" y2=".75"/>
+      <line class="cls-2" x1="22.93" y1="1.72" x2="22.93" y2="30.44"/>
+      <line class="cls-1" x1="22.93" y1="30.93" x2="22.93" y2="31.43"/>
+    </g>
+  </g>
+</svg>

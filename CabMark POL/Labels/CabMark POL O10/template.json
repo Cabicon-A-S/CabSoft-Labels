@@ -1,0 +1,32 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark POL Ø10",
+    "status": "wip"
+  },
+  "geometry": {
+    "label-width": 10,
+    "label-height": 10,
+    "liner-width": 70,
+    "margin-left": 2,
+    "margin-right": 2,
+    "rowspacing": 2.7,
+    "colspacing": 4,
+    "columns": 5
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 30,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": true,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

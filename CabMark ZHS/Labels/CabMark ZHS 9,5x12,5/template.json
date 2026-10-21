@@ -1,0 +1,33 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark ZHS Ø9,5x12,5",
+    "status": "wip"
+  },
+  "geometry": {
+    "label-width": 12.5,
+    "label-height": 17,
+    "diameter": 9.5,
+    "liner-width": 89,
+    "margin-left": 19,
+    "margin-right": 18,
+    "rowspacing": 7,
+    "colspacing": 0.5,
+    "columns": 4
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 50,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": { "squix": true, "eos": false },
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

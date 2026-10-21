@@ -1,0 +1,32 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark POL 57,15x25,4",
+    "status": "wip"
+  },
+  "geometry": {
+    "label-width": 57.15,
+    "label-height": 25.4,
+    "liner-width": 57.15,
+    "margin-left": 0,
+    "margin-right": 0,
+    "rowspacing": 0,
+    "colspacing": 0,
+    "columns": 1
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 50,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": true,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

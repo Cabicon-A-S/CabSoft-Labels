@@ -1,0 +1,32 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark POL 19,04x4,8",
+    "status": "wip"
+  },
+  "geometry": {
+    "label-width": 19.05,
+    "label-height": 4.8,
+    "liner-width": 46,
+    "margin-left": 1,
+    "margin-right": 1,
+    "rowspacing": 2,
+    "colspacing": 4,
+    "columns": 2
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 30,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": false,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

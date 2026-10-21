@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark CPL 90x45",
+    "status": "done",
+    "calibrated-against": {
+      "printer": "eos5-300",
+      "print-offset-x": 0.0,
+      "print-offset-y": -0.70,
+      "panel-heat": 17,
+      "panel-backfeed": "optimised",
+      "date": "2026-09-26",
+      "evidence": "99 Archive/hardware-tests/2026-09-26_zhs-feed.md",
+      "verified-by": "BASE target on shipped settings - lands on the die, inside the band, 4 rows registered with tear-off and backfeed BOTH enabled. First flat stock verified, and the first confirmation that print-offset-y -0,70 holds at rowspacing 0."
+    }
+  },
+  "geometry": {
+    "label-width": 90,
+    "label-height": 45,
+    "liner-width": 95,
+    "margin-left": 2.5,
+    "margin-right": 2.5,
+    "rowspacing": 0,
+    "colspacing": 0,
+    "columns": 1
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 50,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": true,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
+}

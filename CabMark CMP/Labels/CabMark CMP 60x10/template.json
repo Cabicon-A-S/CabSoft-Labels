@@ -1,15 +1,42 @@
 {
-  "itemno": "0",
-  "description": "CabMark CMP 60x10",
-  "label-width": 60,
-  "label-height": 10,
-  "liner-width": 76,
-  "margin-left": 10,
-  "margin-right": 6,
-  "rowspacing": 8.5,
-  "colspacing": 0,
-  "columns": 1,
-  "print-speed": 50,
-  "backfeed-enabled": true,
-  "sensor-type": "gap"
+  "identity": {
+    "itemno": "0",
+    "description": "CabMark CMP 60x10",
+    "status": "done",
+    "calibrated-against": {
+      "printer": "eos5-300",
+      "print-offset-x": 0.0,
+      "print-offset-y": -0.70,
+      "panel-heat": 17,
+      "panel-backfeed": "optimised",
+      "date": "2026-09-27",
+      "evidence": "99 Archive/hardware-tests/2026-09-27_flat-stock.md",
+      "verified-by": "x shift ladder rung E -> margin-left 10 to 8.98; width ladder rung H -> label-width 60 confirmed unchanged; vertical within +/-0.25 mm (TC0/BC0 flush); backfeed and tear-off both fine on this flat stock; confirmed with the 1 mm feed-tolerance padding applied; DONE target, 8 rows, read correct on 2026-09-27"
+    }
+  },
+  "geometry": {
+    "label-width": 60,
+    "label-height": 10,
+    "liner-width": 76,
+    "margin-left": 8.98,
+    "margin-right": 7.02,
+    "rowspacing": 6.5,
+    "colspacing": 0,
+    "columns": 1
+  },
+  "print": {
+    "sensor-type": "gap",
+    "print-speed": 50,
+    "print-darkness": 0
+  },
+  "feed": {
+    "backfeed-enabled": true,
+    "backfeed-speed": 0,
+    "tear-off-enabled": true,
+    "rotate-180": true
+  },
+  "cutter": {
+    "cutter-mode": 0,
+    "cutter-interval": 1
+  }
 }
