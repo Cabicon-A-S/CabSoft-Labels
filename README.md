@@ -35,7 +35,7 @@ This repository holds 126 labels in six families:
   - `identity`: `itemno`, `description` (the name the New Label window shows), `status` (`wip` or `done`) and, with `done`, `calibrated-against`: the printer, its print offsets, the panel heat and the date the label was verified on. `done` holds for that printer only.
   - `geometry`, in millimetres: `label-width`, `label-height`, `liner-width`, `margin-left`, `margin-right`, `rowspacing`, `colspacing`, `columns`. The margins, the labels and the column gaps add up to `liner-width`, and `label-height + rowspacing` is the real row pitch of the material.
   - `print`: `sensor-type` (`gap`, `continuous`, `upper-marker`, `lower-marker`), `print-speed` in mm/s, `print-darkness` (-20 to +20, added to the printer's panel setting).
-  - `feed`: `backfeed-enabled`, `backfeed-speed`, `tear-off-enabled`, `rotate-180`, and optionally `waiting-position` and `form-feed-count`.
+  - `feed`: `backfeed-enabled`, `backfeed-speed`, `tear-off-enabled`, `rotate-180`, and optionally `waiting-position`, `form-feed-count` and `resync-at-start` (adds `F` to the first print job so the printer synchronizes the web before printing).
   - `cutter`: `cutter-mode` (0 never, 1 after the job, 2 every `cutter-interval` labels) and `cutter-interval`.
 - `Label.svg`: the label's outline, drawn under the user's design. In its first path, the first closed part is the outer edge and any further closed parts are holes.
 - `Fill.svg`: the label's fill colour.
