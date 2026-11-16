@@ -10,7 +10,7 @@ This repository holds 126 labels in six families:
 | CabMark CPL  |     24 | four SVG layers                              |
 | CabMark ZHS  |     22 | four SVG layers                              |
 | CabMark CMW  |     16 | four SVG layers                              |
-| CabMark ZHCO |     11 | none: endless material, `template.json` only |
+| CabMark ZHCO |     11 | four SVG layers                              |
 | CabMark CMP  |      9 | four SVG layers                              |
 
 ## Folder layout
@@ -41,6 +41,8 @@ This repository holds 126 labels in six families:
 - `Fill.svg`: the label's fill colour.
 - `Print limitation.svg`: the area the printer cannot reach, shown when the user turns on the print limitations. The name is spelled as the program reads it. Older folders used the misspelling `Print limination.svg`; the program still accepts it in a user's own labels, but every label here uses the correct name.
 - `Transparent.svg`: the label's see-through parts.
+
+The ZHCO tubes are endless and have no die cut: their layers are plain rectangles at the template's size, drawn landscape (`label-height` wide), as these labels are designed with `rotate-90`.
 
 Files are kept byte for byte with LF line ends. `.gitattributes` turns line-end conversion off, because CabSoft V6 compares its copy with this repository's tree.
 
