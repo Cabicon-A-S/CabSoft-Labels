@@ -2,6 +2,7 @@
   "identity": {
     "itemno": "0",
     "description": "CMP CabTag 64x11mm",
+    "subcategory": "CabTag",
     "status": "wip"
   },
   "geometry": {

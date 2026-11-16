@@ -2,6 +2,7 @@
   "identity": {
     "itemno": "0",
     "description": "CabMark CMP 30x24 Oktav",
+    "subcategory": "Oktav",
     "status": "wip"
   },
   "geometry": {

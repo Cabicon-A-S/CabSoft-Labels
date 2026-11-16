@@ -24,7 +24,7 @@ This repository holds 126 labels in six families:
     Transparent.svg
 ```
 
-- The first folder is the family, the second the subcategory (`Labels` for every label today). The program takes both from the path.
+- The first folder is the family: the top category in the New Label window's list. The second folder is `Labels` for every label; it is only part of the path.
 - A label's id is its path, for example `CabMark ZHS/Labels/CabMark ZHS 3,2x12,5`. Saved documents refer to labels by it, so renaming or moving a folder makes it a different label.
 - A folder is a label when it holds a `template.json`. Any other file in a label folder fails the program's library checks.
 - A folder named `[Legacy]` is never loaded.
@@ -32,7 +32,7 @@ This repository holds 126 labels in six families:
 ## The files
 
 - `template.json`: the label, in five groups of settings.
-  - `identity`: `itemno`, `description` (the name the New Label window shows), `status` (`wip` or `done`) and, with `done`, `calibrated-against`: the printer, its print offsets, the panel heat and the date the label was verified on. `done` holds for that printer only.
+  - `identity`: `itemno`, `description` (the name the New Label window shows), optionally `subcategory` (the header the label is listed under within its family, such as `Oktav`, `Endless` or `1 kolonne`; without it the program guesses one from the description, for example `Round (Ø)` for a name with Ø), `status` (`wip` or `done`) and, with `done`, `calibrated-against`: the printer, its print offsets, the panel heat and the date the label was verified on. `done` holds for that printer only.
   - `geometry`, in millimetres: `label-width`, `label-height`, `liner-width`, `margin-left`, `margin-right`, `rowspacing`, `colspacing`, `columns`. The margins, the labels and the column gaps add up to `liner-width`, and `label-height + rowspacing` is the real row pitch of the material.
   - `print`: `sensor-type` (`gap`, `continuous`, `upper-marker`, `lower-marker`), `print-speed` in mm/s, `print-darkness` (-20 to +20, added to the printer's panel setting).
   - `feed`: `backfeed-enabled`, `backfeed-speed`, `tear-off-enabled`, `rotate-180`, and optionally `waiting-position`, `form-feed-count` and `resync-at-start` (adds `F` to the first print job so the printer synchronizes the web before printing).

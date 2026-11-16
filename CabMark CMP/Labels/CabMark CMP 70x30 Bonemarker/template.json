@@ -2,6 +2,7 @@
   "identity": {
     "itemno": "0",
     "description": "CabMark CMP 70x30 Bonemarker",
+    "subcategory": "Bonemarker",
     "status": "wip"
   },
   "geometry": {

@@ -2,6 +2,7 @@
   "identity": {
     "itemno": "0",
     "description": "POL 40x6 mm (1 kolonne)",
+    "subcategory": "1 kolonne",
     "status": "wip"
   },
   "geometry": {
