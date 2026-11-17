@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.00 98.93">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <g id="Print limitation">
-    <rect class="cls-1" width="144.00" height="98.93" rx="5.67" ry="5.67"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.5 99.43">
+  <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" d="M5.92,0.25L138.58,0.25L139.35,0.3L140.09,0.45L140.79,0.7L141.44,1.02L142.04,1.43L142.59,1.91L143.07,2.46L143.48,3.06L143.8,3.71L144.05,4.41L144.2,5.15L144.25,5.92L144.25,93.51L144.2,94.28L144.05,95.02L143.8,95.72L143.48,96.37L143.07,96.97L142.59,97.52L142.04,98L141.44,98.41L140.79,98.73L140.09,98.98L139.35,99.13L138.58,99.18L5.92,99.18L5.15,99.13L4.41,98.98L3.71,98.73L3.06,98.41L2.46,98L1.91,97.52L1.43,96.97L1.02,96.37L0.7,95.72L0.45,95.02L0.3,94.28L0.25,93.51L0.25,5.92L0.3,5.15L0.45,4.41L0.7,3.71L1.02,3.06L1.43,2.46L1.91,1.91L2.46,1.43L3.06,1.02L3.71,0.7L4.41,0.45L5.15,0.3Z"/>
+  <rect fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="1 1" x="2.8" y="2.23" width="138.9" height="34.02"/>
 </svg>

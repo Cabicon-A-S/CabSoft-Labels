@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85.54 85.54">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: none;
-        stroke: #000;
-        stroke-dasharray: 0 0 1 1;
-        stroke-miterlimit: 10;
-        stroke-width: .5px;
-      }
-    </style>
-  </defs>
-  <g id="Print_limination" data-name="Print limination">
-    <circle class="cls-1" cx="42.77" cy="42.77" r="42.52"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85.54 85.54">
+  <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" d="M85.29,42.77L84.9,48.54L83.77,54.07L81.95,59.32L79.48,64.23L76.43,68.75L72.84,72.84L68.75,76.43L64.23,79.48L59.32,81.95L54.07,83.77L48.54,84.9L42.77,85.29L37,84.9L31.47,83.77L26.22,81.95L21.31,79.48L16.79,76.43L12.7,72.84L9.11,68.75L6.06,64.23L3.59,59.32L1.77,54.07L0.64,48.54L0.25,42.77L0.64,37L1.77,31.47L3.59,26.22L6.06,21.31L9.11,16.79L12.7,12.7L16.79,9.11L21.31,6.06L26.22,3.59L31.47,1.77L37,0.64L42.77,0.25L48.54,0.64L54.07,1.77L59.32,3.59L64.23,6.06L68.75,9.11L72.84,12.7L76.43,16.79L79.48,21.31L81.95,26.22L83.77,31.47L84.9,37Z"/>
+  <ellipse fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="1 1" cx="42.77" cy="42.77" rx="41.1" ry="41.1"/>
 </svg>

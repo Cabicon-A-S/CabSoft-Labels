@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.35 28.35">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <g id="Print limitation">
-    <circle class="cls-1" cx="14.17" cy="14.17" r="14.17"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.84 28.84">
+  <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" d="M28.59,14.42L28.46,16.34L28.08,18.19L27.48,19.94L26.66,21.57L25.64,23.08L24.44,24.44L23.08,25.64L21.57,26.66L19.94,27.48L18.19,28.08L16.34,28.46L14.42,28.59L12.5,28.46L10.65,28.08L8.9,27.48L7.27,26.66L5.76,25.64L4.4,24.44L3.2,23.08L2.18,21.57L1.36,19.94L0.76,18.19L0.38,16.34L0.25,14.42L0.38,12.5L0.76,10.65L1.36,8.9L2.18,7.27L3.2,5.76L4.4,4.4L5.76,3.2L7.27,2.18L8.9,1.36L10.65,0.76L12.5,0.38L14.42,0.25L16.34,0.38L18.19,0.76L19.94,1.36L21.57,2.18L23.08,3.2L24.44,4.4L25.64,5.76L26.66,7.27L27.48,8.9L28.08,10.65L28.46,12.5Z"/>
+  <ellipse fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="1 1" cx="14.42" cy="14.42" rx="12.75" ry="12.75"/>
 </svg>

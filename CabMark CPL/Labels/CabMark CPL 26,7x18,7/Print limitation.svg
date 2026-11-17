@@ -1,34 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76.19 53.51">
-  <defs>
-    <style>
-      .cls-1 {
-        stroke-dasharray: 0 0 1.01 1.01;
-      }
-
-      .cls-1, .cls-2, .cls-3 {
-        fill: none;
-        stroke: #000;
-        stroke-miterlimit: 10;
-        stroke-width: .5px;
-      }
-
-      .cls-2 {
-        stroke-dasharray: 0 0 .98 .98;
-      }
-    </style>
-  </defs>
-  <g id="Print_limination" data-name="Print limination">
-    <rect class="cls-3" x=".25" y=".25" width="75.69" height="53.01" rx="5.67" ry="5.67"/>
-    <g>
-      <polyline class="cls-3" points="73.53 51.77 73.53 52.27 73.03 52.27"/>
-      <line class="cls-1" x1="72.01" y1="52.27" x2="3.67" y2="52.27"/>
-      <polyline class="cls-3" points="3.16 52.27 2.66 52.27 2.66 51.77"/>
-      <line class="cls-2" x1="2.66" y1="50.78" x2="2.66" y2="2.23"/>
-      <polyline class="cls-3" points="2.66 1.74 2.66 1.24 3.16 1.24"/>
-      <line class="cls-1" x1="4.17" y1="1.24" x2="72.52" y2="1.24"/>
-      <polyline class="cls-3" points="73.03 1.24 73.53 1.24 73.53 1.74"/>
-      <line class="cls-2" x1="73.53" y1="2.72" x2="73.53" y2="51.28"/>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76.19 53.51">
+  <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" d="M5.92,0.25L70.27,0.25L71.04,0.3L71.78,0.45L72.48,0.7L73.13,1.02L73.73,1.43L74.28,1.91L74.76,2.46L75.17,3.06L75.49,3.71L75.74,4.41L75.89,5.15L75.94,5.92L75.94,47.59L75.89,48.36L75.74,49.1L75.49,49.8L75.17,50.45L74.76,51.05L74.28,51.6L73.73,52.08L73.13,52.49L72.48,52.81L71.78,53.06L71.04,53.21L70.27,53.26L5.92,53.26L5.15,53.21L4.41,53.06L3.71,52.81L3.06,52.49L2.46,52.08L1.91,51.6L1.43,51.05L1.02,50.45L0.7,49.8L0.45,49.1L0.3,48.36L0.25,47.59L0.25,5.92L0.3,5.15L0.45,4.41L0.7,3.71L1.02,3.06L1.43,2.46L1.91,1.91L2.46,1.43L3.06,1.02L3.71,0.7L4.41,0.45L5.15,0.3Z"/>
+  <rect fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="1 1" x="2.66" y="2.66" width="70.87" height="48.19"/>
 </svg>

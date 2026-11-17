@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.43 90.71">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <g id="Print limitation">
-    <rect class="cls-1" width="35.43" height="90.71"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.93 91.21">
+  <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" d="M0.25,0.25L35.68,0.25L35.68,90.96L0.25,90.96Z"/>
+  <rect fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="1 1" x="2.37" y="1.67" width="31.18" height="87.87"/>
 </svg>

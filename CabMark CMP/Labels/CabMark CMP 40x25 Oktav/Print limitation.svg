@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113.89 71.75">
-  <defs>
-    <style>
-      .cls-1, .cls-2 {
-        fill: none;
-        stroke: #000;
-        stroke-miterlimit: 10;
-        stroke-width: .5px;
-      }
-
-      .cls-2 {
-        stroke-dasharray: 0 0 .99 .99;
-      }
-    </style>
-  </defs>
-  <g id="Print_limination" data-name="Print limination">
-    <path class="cls-1" d="M66.27,.25h-18.64L.25,14.54V57.21l47.38,14.29h18.64l47.37-14.23V14.54L66.27,.25Z"/>
-    <g>
-      <line class="cls-1" x1="113.64" y1="17.42" x2="113.14" y2="17.42"/>
-      <line class="cls-2" x1="112.14" y1="17.42" x2="1.25" y2="17.42"/>
-      <line class="cls-1" x1=".75" y1="17.42" x2=".25" y2="17.42"/>
-    </g>
-    <g>
-      <line class="cls-1" x1="113.64" y1="54.27" x2="113.14" y2="54.27"/>
-      <line class="cls-2" x1="112.14" y1="54.27" x2="1.25" y2="54.27"/>
-      <line class="cls-1" x1=".75" y1="54.27" x2=".25" y2="54.27"/>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113.89 71.75">
+  <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" d="M66.27,0.25L47.63,0.25L0.25,14.54L0.25,57.21L47.63,71.5L66.27,71.5L113.64,57.27L113.64,14.54Z"/>
+  <line fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="1 1" x1="0.25" y1="15.84" x2="113.64" y2="15.84"/>
+  <line fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="1 1" x1="0.25" y1="55.85" x2="113.64" y2="55.85"/>
 </svg>
