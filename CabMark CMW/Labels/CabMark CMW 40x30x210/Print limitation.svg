@@ -1,34 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113.89 595.78">
-  <defs>
-    <style>
-      .cls-1 {
-        stroke-dasharray: 0 0 1.01 1.01;
-      }
-
-      .cls-1, .cls-2, .cls-3 {
-        fill: none;
-        stroke: #000;
-        stroke-miterlimit: 10;
-        stroke-width: .5px;
-      }
-
-      .cls-3 {
-        stroke-dasharray: 0 0 1 1;
-      }
-    </style>
-  </defs>
-  <g id="Print_limination" data-name="Print limination">
-    <rect class="cls-2" x=".25" y=".25" width="113.39" height="595.28" rx="5.67" ry="5.67"/>
-    <g>
-      <polyline class="cls-2" points="112.22 84.7 112.22 85.2 111.72 85.2"/>
-      <line class="cls-1" x1="110.71" y1="85.2" x2="2.67" y2="85.2"/>
-      <polyline class="cls-2" points="2.17 85.2 1.67 85.2 1.67 84.7"/>
-      <line class="cls-3" x1="1.67" y1="83.7" x2="1.67" y2="4"/>
-      <polyline class="cls-2" points="1.67 3.5 1.67 3 2.17 3"/>
-      <line class="cls-1" x1="3.17" y1="3" x2="111.22" y2="3"/>
-      <polyline class="cls-2" points="111.72 3 112.22 3 112.22 3.5"/>
-      <line class="cls-3" x1="112.22" y1="4.5" x2="112.22" y2="84.2"/>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113.89 588.69">
+  <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" d="M0.25,5.92L0.3,5.15L0.45,4.41L0.7,3.71L1.02,3.06L1.43,2.45L1.91,1.91L2.45,1.43L3.06,1.02L3.71,0.7L4.41,0.45L5.15,0.3L5.92,0.25L107.97,0.25L108.74,0.3L109.47,0.45L110.17,0.7L110.83,1.02L111.43,1.43L111.98,1.91L112.45,2.45L112.86,3.06L113.19,3.71L113.43,4.41L113.58,5.15L113.64,5.92L113.64,582.77L113.58,583.54L113.43,584.28L113.19,584.98L112.86,585.63L112.45,586.23L111.98,586.78L111.43,587.26L110.83,587.67L110.17,587.99L109.47,588.24L108.74,588.39L107.97,588.44L5.92,588.44L5.15,588.39L4.41,588.24L3.71,587.99L3.06,587.67L2.45,587.26L1.91,586.78L1.43,586.23L1.02,585.63L0.7,584.98L0.45,584.28L0.3,583.54L0.25,582.77Z"/>
+  <rect fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5" stroke-dasharray="1 1" x="1.67" y="3.08" width="110.55" height="82.2"/>
 </svg>

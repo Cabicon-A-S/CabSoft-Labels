@@ -7,9 +7,9 @@
   "geometry": {
     "label-width": 69,
     "label-height": 19,
-    "liner-width": 69,
-    "margin-left": 0,
-    "margin-right": 0,
+    "liner-width": 73,
+    "margin-left": 2,
+    "margin-right": 2,
     "rowspacing": 0,
     "colspacing": 0,
     "columns": 1
